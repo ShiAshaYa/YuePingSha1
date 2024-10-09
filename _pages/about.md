@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+Introduction:
 
-
-personal academic website
-======
 
 
 
