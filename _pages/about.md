@@ -9,10 +9,9 @@ redirect_from:
 
 
 
-A data-driven personal website
+personal academic website
 ======
 
 
-Getting started
-======
+
 
