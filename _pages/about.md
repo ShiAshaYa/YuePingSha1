@@ -6,8 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-Introduction:
-==
+
+
 I am a first year PhD student in university of pittsburgh 
 
 
